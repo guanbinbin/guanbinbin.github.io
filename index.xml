@@ -21,12 +21,13 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>关于本站</title>
       <link>https://fouha.com/about/</link>
       <pubDate>Sun, 03 Nov 2019 10:19:45 +0800</pubDate>
       
       <guid>https://fouha.com/about/</guid>
-      <description>#关于本站</description>
+      <description>建立本站目的 上网多年，一直都没有一个博客，此次建立fouha.com这个博客，主要是记录自己日常和学习笔记。
+建站工具 fouha.com目前使用的是静态博客系统hugo架设。hugo简单方便，模板多，用着蛮顺手的。至于以后会不会换其他的工具，到时候再说:)</description>
     </item>
     
   </channel>
