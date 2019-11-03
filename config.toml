@@ -42,4 +42,3 @@ paginate = 5
         identifier = "casestudies"
         name = "案例"
         url = "/case-studies"
-
