@@ -1,0 +1,44 @@
+baseurl = "https://fouha.com/"
+languageCode = "zh-cmn-Hans"
+theme = "hugo-theme-terminal"
+DefaultContentLanguage = "zh"
+paginate = 5
+
+[params]
+  contentTypeName = "post"
+  themeColor = "orange"
+  showMenuItems = 4
+  fullWidthTheme = false
+  centerTheme = true
+
+[languages]
+  [languages.zh]
+    title = "否哈"
+    subtitle = "拯救不开心 o(∩_∩)o"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.zh.params.logo]
+      logoText = "否哈"
+      logoHomeLink = "/"
+
+    [languages.zh.menu]
+      [[languages.zh.menu.main]]
+        identifier = "about"
+        name = "关于"
+        url = "/about"
+      [[languages.zh.menu.main]]
+        identifier = "docs"
+        name = "文档"
+        url = "/docs"
+      [[languages.zh.menu.main]]
+        identifier = "blog"
+        name = "博客"
+        url = "/blog"
+      [[languages.zh.menu.main]]
+        identifier = "casestudies"
+        name = "案例"
+        url = "/case-studies"
