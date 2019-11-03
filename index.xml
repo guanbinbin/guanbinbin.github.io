@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>否哈</title>
+    <link>https://fouha.com/</link>
+    <description>Recent content on 否哈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <copyright>&amp;copy; Copyright 2019 FOUHA.COM</copyright>
+    <lastBuildDate>Mon, 04 Nov 2019 07:33:29 +0800</lastBuildDate>
+    
+	<atom:link href="https://fouha.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://fouha.com/about/</link>
+      <pubDate>Mon, 04 Nov 2019 07:33:29 +0800</pubDate>
+      
+      <guid>https://fouha.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
