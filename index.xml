@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>否哈</title>
-    <link>https://guanbinbin.github.io/</link>
+    <link>https://fouha.com/</link>
     <description>Recent content on 否哈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cmn-Hans</language>
     <lastBuildDate>Sun, 03 Nov 2019 10:20:02 +0800</lastBuildDate>
     
-	<atom:link href="https://guanbinbin.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fouha.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Frist</title>
-      <link>https://guanbinbin.github.io/blog/frist/</link>
+      <link>https://fouha.com/blog/frist/</link>
       <pubDate>Sun, 03 Nov 2019 10:20:02 +0800</pubDate>
       
-      <guid>https://guanbinbin.github.io/blog/frist/</guid>
+      <guid>https://fouha.com/blog/frist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://guanbinbin.github.io/about/</link>
+      <link>https://fouha.com/about/</link>
       <pubDate>Sun, 03 Nov 2019 10:19:45 +0800</pubDate>
       
-      <guid>https://guanbinbin.github.io/about/</guid>
+      <guid>https://fouha.com/about/</guid>
       <description></description>
     </item>
     
