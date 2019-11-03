@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://fouha.com/about/</loc>
     <lastmod>2019-11-04T07:33:29+08:00</lastmod>
+=======
+    <loc>https://fouha.com/blog/</loc>
+    <lastmod>2019-11-03T10:20:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fouha.com/blog/frist/</loc>
+    <lastmod>2019-11-03T10:20:02+08:00</lastmod>
+>>>>>>> db712e21b9ada00afa5670d9217ccf9fbaad4cdf
   </url>
   
   <url>
     <loc>https://fouha.com/</loc>
+<<<<<<< HEAD
     <lastmod>2019-11-04T07:33:29+08:00</lastmod>
   </url>
   
@@ -18,6 +29,18 @@
   
   <url>
     <loc>https://fouha.com/series/</loc>
+=======
+    <lastmod>2019-11-03T10:20:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fouha.com/about/</loc>
+    <lastmod>2019-11-03T10:19:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fouha.com/categories/</loc>
+>>>>>>> db712e21b9ada00afa5670d9217ccf9fbaad4cdf
   </url>
   
   <url>
