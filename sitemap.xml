@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
     <loc>https://guanbinbin.github.io/blog/</loc>
     <lastmod>2019-11-03T10:20:02+08:00</lastmod>
   </url>
@@ -21,25 +20,6 @@
   <url>
     <loc>https://guanbinbin.github.io/about/</loc>
     <lastmod>2019-11-03T10:19:45+08:00</lastmod>
-=======
-    <loc>https://guanbinbin.github.io/about/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guanbinbin.github.io/post/hello/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guanbinbin.github.io/post/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://guanbinbin.github.io/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
->>>>>>> 38daa8e817c3daeb8ca7b8d9344bb2119bda7713
   </url>
   
   <url>
